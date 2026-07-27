@@ -1,6 +1,6 @@
 body {
   font-family: "Outfit", sans-serif;
-  background-color: hsl(212, 23%, 69%);
+  background-color: hsl(210, 46%, 95%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,9 +32,10 @@ p {
   max-height: 30rem;
   min-height: 30rem;
   max-width: 42rem;
-  background-color: hsl(210, 46%, 95%);
+  background-color: hsl(240, 14%, 99%);
   border-radius: 2%;
   overflow: hidden;
+  box-shadow: 1rem 0.8rem 3rem hsla(212, 23%, 69%, 0.3);
 }
 .image-container {
   width: 100%;
